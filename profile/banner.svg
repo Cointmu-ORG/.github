@@ -65,7 +65,7 @@
 
   <text x="60" y="150" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="82" font-weight="800" fill="#ffffff">Coint<tspan fill="#6fe0b8">MU</tspan></text>
   <text x="62" y="192" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" fill="#cdeee1">A private Proof-of-Work blockchain network</text>
-  <text x="62" y="222" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#8fb8a9">Build · Mine · Explore. Made at Universitas Muhammadiyah Yogyakarta</text>
+  <text x="62" y="222" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#8fb8a9">Build · Mine · Explore. Made at Arcanists</text>
 
   <rect x="62" y="248" width="348" height="34" rx="17" fill="url(#accent)"/>
   <text x="236" y="270" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#0b1613">Chain ID 1912 · Ethash · Geth 1.10.26</text>
