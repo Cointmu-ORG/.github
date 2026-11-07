@@ -144,6 +144,6 @@ Contributions are welcome across all projects. Open an issue to discuss what you
 
 <div align="center">
 
-<sub>Built with ⛏️ at <b>Universitas Muhammadiyah Yogyakarta</b></sub>
+<sub>Built with ⛏️ by <b>Arcanists</b></sub>
 
 </div>
